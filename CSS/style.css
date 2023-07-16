@@ -388,10 +388,11 @@ ol li {
     Music Section
 ===================*/
 
-.video{
+.video {
     text-align: center;
     padding: 5px;
 }
+
 .brylle-grid {
     --gap: 30px;
     --num-cols: 4;
